@@ -2,7 +2,9 @@
 https://todofancy-50283.firebaseapp.com
 
 Apabila di clone dan ingin di jalankan local tambahkan file
+
 .eslintrc.js yang berisi
+```javascript
 module.exports = {
   root: true,
   env: {
@@ -20,3 +22,5 @@ module.exports = {
     parser: 'babel-eslint'
   }
 }
+
+```
