@@ -1,6 +1,8 @@
 # todo-fancy
 https://todofancy-50283.firebaseapp.com
 
+http://todofancy.adhityardt.ml/#/
+
 Apabila di clone dan ingin di jalankan local tambahkan file
 
 .eslintrc.js yang berisi
